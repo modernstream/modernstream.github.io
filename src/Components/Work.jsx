@@ -18,7 +18,7 @@ const works = [
     category: "Web Design",
     title: "Static Transport Website",
     description:
-      "Modern, responsive website design for a transportation company featuring animated elements and intuitive navigation.",
+      "Modern, responsive website design for a transportation company featuring animated elements & intuitive navigation.",
     image: WebImgg,
   },
   {
