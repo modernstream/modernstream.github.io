@@ -1,7 +1,7 @@
 {
   "name": "modernstream",
   "private": true,
-  "homepage":"https://modernstream.github.io",
+  "homepage":"https://modernstream.github.io/modernstream.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
